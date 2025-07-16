@@ -10,5 +10,5 @@ cd ..
 # Save the list to packages/packages-list
 echo "$packages" > packages/packages-list
 
-uv run dumb-pypi --package-list packages/packages-list --output-dir=dist --packages-url=https://wasix-org.github.io/python-index/packages/
+uv run dumb-pypi --package-list packages/packages-list --output-dir=dist --packages-url=https://wasix-org.github.io/python-index/packages/ --title="WASIX Python Index"
 cp -r packages dist/packages
