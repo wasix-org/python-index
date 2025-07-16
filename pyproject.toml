@@ -1,0 +1,9 @@
+[project]
+name = "wasix-python-index"
+version = "0.1.0"
+description = "WASIX Python Index Packages"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dumb-pypi>=1.15.0",
+]
