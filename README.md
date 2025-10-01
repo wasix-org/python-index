@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo is no longer used. See https://github.com/wasix-org/build-scripts instead.
+
 # WASIX Python Index
 
 You can use this index for WASIX easily by providing this index to `pip` or `uv`:
