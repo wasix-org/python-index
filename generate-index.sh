@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Construct the list for the package-list file, from the files inside of packages
 # and save it to packages/packages-list
